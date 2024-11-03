@@ -76,7 +76,7 @@
             </div>
             <div class="panel-body">
               AWS CodeBuild is a continuous delivery service for fast and reliable application updates. CodePipeline builds, tests, and deploys your code every time there is a code change, based on the release process models you define.
-              <a href="https://aws.amazon.com/codepipeline/" target="_blank" >More info</a>
+              <a href="https://aws.amazon.com/codebuild/" target="_blank" >More info</a>
             </div>
           </div>
         </div>
