@@ -38,25 +38,25 @@
       <p><i>Why can't application deployment be soooooo easy?</i></p>
     </div>
     <div class="page-header">
-      <h1>Our Products</h1>
+      <h1>Resources Used</h1>
     </div>
     <div class="panel panel-default" >
       <div class="row">
         <div class="col-sm-9 col-md-9 col-lg-9">
           <div class="panel panel-default">
             <div class="panel-heading">
-              <h3 class="panel-title">GitHub</h3>
+              <h3 class="panel-title">AWS CodeCommit</h3>
             </div>
             <div class="panel-body">
-              GitHub is a web-based platform that allows developers to store, share, and collaborate on code. Developers can store their code in a repository, which is similar to a folder for files, share their work with others, and others can review and suggest improvements and work as a team without worrying about conflicting changes. GitHub uses Git, an open source version control software that helps with access control, bug tracking, task management, and more. GitHub has been called a "social coding platform" because it encourages people to coordinate and share code.
-              <a href="https://github.com/home" target="_blank" >More info</a>
+              AWS CodeCommit is a fully managed build service that compiles source code, runs tests, and produces software packages that are ready to deploy. With CodeBuild, you don’t need to provision, manage, and scale your own build servers. CodeBuild scales continuously and processes multiple builds concurrently, so your builds are not left waiting in a queue.
+              <a href="https://aws.amazon.com/codecommit/" target="_blank" >More info</a>
             </div>
           </div>
         </div>
         <div class="col-sm-2 col-md-2 col-lg-2">
           <div class="panel panel-default">
             <div class="panel-body">
-              <img src="images/github-mark-white.png" style="width:100px;height:100px;">
+              <img src="images/codecommit.png" style="width:100px;height:100px;">
             </div>
           </div>
         </div>
